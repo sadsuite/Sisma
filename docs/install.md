@@ -8,7 +8,8 @@ Apri il terminale ed esegui:
 
 ```bash
 git clone https://github.com/sadsuite/Sisma.git
-cd Sisma/src
+cd Sisma
+open index.html
 ```
 Oppure scarica e decomprimi l'archivio ZIP dal repository.
 

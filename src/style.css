@@ -104,7 +104,7 @@ body.page-index .hero {
     justify-content: center;
     align-items: center;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), 
-                url('../../assets/images/crack.webp') no-repeat center center/cover;
+                url('../assets/images/crack.webp') no-repeat center center/cover;
     background-attachment: fixed;
 }
 

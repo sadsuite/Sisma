@@ -45,6 +45,7 @@ Il sito usa HTML, CSS e JavaScript vanilla, supportato da librerie esterne come 
 │   ├── api.md
 │   ├── faq.md
 │   └── install.md
+├── index.html
 └── src
     ├── data.json
     ├── index.html
@@ -78,6 +79,7 @@ Vedi la pagina di 👉 [Installazione](/docs/install.md)
 - `src/index.html`: landing page e descrizione del progetto.
 - `src/pages/map.html`: visualizzazione mappa con eventi sismici.
 - `src/pages/data.html`: dashboard con statistiche, grafici e feed.
+- `/index.html`: redirect page per funzionalità GitHub Pages.
 
 ## Librerie esterne usate
 

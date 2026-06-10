@@ -1,10 +1,13 @@
 # FAQ
 
 ## 1. Come posso visualizzare il sito?
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen?style=for-the-badge)](https://github.com/sadsuite/Sisma.git)
+Il sito è pubblicamente accessibile su GitHub:
 
-Il sito è pubblicamente accessibile su GitHub Pages:
-👉 **[Visita il Monitor Tool](https://sadsuite.github.io/Sisma/)**   
+👉 **[Visita la Repo](https://github.com/sadsuite/Sisma.git)**
+
+Altrimenti è disponibile una versione live hostata su GitHub Pages:
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Site-brightgreen?style=for-the-badge)](https://sadsuite.github.io/Sisma/)
 
 ## 2. Quali pagine contiene il progetto?
 Il sito include tre pagine principali:
