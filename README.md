@@ -9,14 +9,14 @@ Il sito è pubblicamente accessibile su GitHub Pages:
 
 ## Screenshots
 
-<div style="display:flex;gap:12px;flex-wrap:wrap;align-items:flex-start;">
-    <img src="assets/screenshots/home.jpg" alt="Home page" width="640" style="border-radius:8px;object-fit:cover;">
-    Homepage
-    <img src="assets/screenshots/map.jpg" alt="Map page" width="640" style="border-radius:8px;object-fit:cover;">
-    Map Page
-    <img src="assets/screenshots/data.jpg" alt="Data dashboard" width="640" style="border-radius:8px;object-fit:cover;">
-    Data Page
-</div>
+![Home page](assets/screenshots/home.jpg)
+Homepage
+
+![Map page](assets/screenshots/map.jpg)
+Map Page
+
+![Data dashboard](assets/screenshots/data.jpg)
+Data Page   
 
 ## Descrizione
 
