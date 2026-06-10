@@ -47,10 +47,15 @@ body.page-map header p {
 
 #api-alert {
     display: none;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 0.25s ease, transform 0.25s ease;
 }
 
 #api-alert.api-alert-visible {
     display: block;
+    opacity: 1;
+    transform: translateY(0);
 }
 
 body.page-map #map {
@@ -67,6 +72,14 @@ body.page-map #map {
     width: min(420px, calc(100% - 40px));
     box-shadow: 0 18px 45px rgba(230, 57, 70, 0.16);
     display: block;
+    border-radius: 16px;
+    border: 1px solid rgba(230, 57, 70, 0.28);
+    background: rgba(255, 255, 255, 0.96);
+    color: #9b1c1c;
+}
+
+.page-map .map-alert-card .card-body {
+    padding: 1rem 1.25rem;
 }
 
 .page-map .leaflet-popup-content-wrapper {
