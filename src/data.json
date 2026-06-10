@@ -1,0 +1,11 @@
+{
+  "source": "fallback locale",
+  "note": "Questi dati vengono usati solo se la API remota non risponde.",
+  "items": [
+    {
+      "title": "Evento sismico demo",
+      "body": "Magnitudo: 4.2. Tipo: earthquake.",
+      "meta": "fallback"
+    }
+  ]
+}
